@@ -1,0 +1,38 @@
+/* label {
+    margin-right: 10px;
+} */
+.inscriptionenzo {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.col-md-3{
+    /* border: 2px solid red; */
+}
+.matieres {
+    margin:  30px 0px;
+    padding: 50px 0px;
+    border: 2px solid black;
+
+}
+.inscriptionenzo label {
+    width: 112px;
+
+}
+
+
+
+
+.buttonTrue {
+    background: white;
+    border: 2px solid black;
+
+  }
+  
+  .buttonFalse {
+    
+    background:  #869592;
+    border: 2px solid black;
+
+    
+  }
